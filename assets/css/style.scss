@@ -11,6 +11,18 @@ header {
  }
 }
   
-aside a.button {
-  background: none !important;
+aside {
+  img {
+      width: 200px;
+      margin: 0 auto;
+      text-align: center;
+  }
+  a.button {
+    background: none !important;
+    margin : 0 auto;
+    text-align: center;
+    margin-bottom: 0px;
+    padding-left: 0px;
+  }
 }
+
