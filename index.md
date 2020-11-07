@@ -1,37 +1,50 @@
 ## Time's App!
 
-You can use the [editor on GitHub](https://github.com/jonatanjumbert/timesapp-party/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Time's App! is a charades-based party game for mobile devices also know as Time's up.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You simply have to form 2 teams 🧑🏾‍🤝‍🧑🏼 and play the 3 rounds (basic mode) of the game trying to get the highest number of successes that the rival team in the 30-second turns ⌛.
 
-### Markdown
+When the time runs out, it will touch the rival team and so on until the rounds of the game are completed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In the first round the cluegiver can use the words to describe the character and the guessers can give as many answers as it deems appropriate to try to get the character right. If you decide to swipe the card, you will lose five seconds.
 
-```markdown
-Syntax highlighted code block
+In round number two of the game of guessing characters, you will have the same time, but you can only use one word to try to get your teammates to guess the character.
 
-# Header 1
-## Header 2
-### Header 3
+The third round of the game has the same mechanics as the previous ones, but you can only do mimicry and sounds of onomatopoeias.
 
-- Bulleted
-- List
+To have fun from the first moment with your friends and family, you have several game decks with more than 1.200 characters to guess completely free:
+- Celebrities
+- Celebrities 2
+- Most famous women
+- The first four generations of Pokémon
+- Movies with most Oscars
+- Best videogames of all time
+- Random deck 🔀
 
-1. Numbered
-2. List
+In case the game falls short, you will find custom decks in the store with which to liven up your games to Time's Up! At the moment we have:
+👩 People who changed the world
+🦇 The last Pokémon Generations
+🐕‍🦺 Top Sport Personalities
+🦒 Greatest singers
+You can play with these decks for free just after see an ad, by doing this you help us and we will bring you new decks and make you enjoy this game with your friends.
 
-**Bold** and _Italic_ and `Code` text
+⭐ Play with friends or family
+⭐ Learn vocabulary and general culture
+⭐ For all ages
+⭐ Hundreds of words and descriptions
+⭐ Works on all devices
 
-[Link](url) and ![Image](src)
-```
+In addition, also in the store you will have the option to expand the basic features of the game:
+👍 Game duration, where you can choose the number of cards for current game deck.
+👍 Play a fourth round, where you can only make a pose (statue mode) to try to get your partners to guess the name of the character.
+👍 Enable the bibliography during the game. So, if you do not know a character, at least you can read the basic description that we provide you.
+👍 Expand game turns to 40/50/60 seconds. That way you'll have more time to get the cards right.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+What would be your ideal game deck for your Time's Up games!? Don't hesitate and let us know writing in comments section what should be next deck for times up?
 
-### Jekyll Themes
+As if that were not enough, the game brings a review mode, with up to 4 levels of difficulty, so you can play individually and prepare for the weekend or the days when you get together to try to guess characters with your best friends. Last difficulty level is the "Hardcore" level where you should guess all characters from selected deck.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonatanjumbert/timesapp-party/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* The game receives regular updates. (expanding the decks and creating new ones)
+* If you have problems or suggestions of game decks, leave your comment next to your rating in the game tab in the Play Store.
+* Credits and thanks for the music of the game to bebeto, frankum, ShortRecord and bubaproducer. You can find her work on freesound.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
