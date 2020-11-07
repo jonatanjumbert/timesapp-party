@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Time's App!
 
 You can use the [editor on GitHub](https://github.com/jonatanjumbert/timesapp-party/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
