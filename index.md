@@ -1,16 +1,15 @@
 ## Time's App!
 
+### What is about
 Time's App! is a charades-based party game for mobile devices also know as Time's up.
 
-You simply have to form 2 teams 🧑🏾‍🤝‍🧑🏼 and play the 3 rounds (basic mode) of the game trying to get the highest number of successes that the rival team in the 30-second turns ⌛.
+You simply have to form 2 teams 🧑🏾‍🤝‍🧑🏼 and play the 3 rounds (basic mode) of the game trying to get the highest number of successes that the rival team in the **30-second turns** ⌛.
 
 When the time runs out, it will touch the rival team and so on until the rounds of the game are completed.
 
-In the first round the cluegiver can use the words to describe the character and the guessers can give as many answers as it deems appropriate to try to get the character right. If you decide to swipe the card, you will lose five seconds.
-
-In round number two of the game of guessing characters, you will have the same time, but you can only use one word to try to get your teammates to guess the character.
-
-The third round of the game has the same mechanics as the previous ones, but you can only do mimicry and sounds of onomatopoeias.
+- *In the first round* the cluegiver can use the words to describe the character and the guessers can give as many answers as it deems appropriate to try to get the character right. If you decide to swipe the card, you will lose five seconds.
+- In *round number two* of the game of guessing characters, you will have the same time, but you can only use one word to try to get your teammates to guess the character.
+- The *third round of the game* has the same mechanics as the previous ones, but you can only do mimicry and sounds of onomatopoeias.
 
 To have fun from the first moment with your friends and family, you have several game decks with more than 1.200 characters to guess completely free:
 - Celebrities
