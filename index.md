@@ -1,6 +1,4 @@
-## Time's App!
-
-### What is about?
+## What is about?
 Time's App! is a charades-based party game for mobile devices also know as Time's up.
 
 You simply have to form 2 teams 🧑🏾‍🤝‍🧑🏼 and play the 3 rounds (basic mode) of the game trying to get the highest number of successes that the rival team in the **30-second turns** ⌛.
