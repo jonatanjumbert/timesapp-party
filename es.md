@@ -13,9 +13,6 @@ Para que te diviertas desde el primer momento junto con tus amigos y familiares,
 - Famosos 1
 - Famosos 2
 - Famosos 3
-- Clash Royale
-- Pokémon Gen1
-- Pokémon Gen2
 - Deportistas Famosos
 - Actores Famosos
 - Personajes Ficticios
@@ -24,33 +21,34 @@ Para que te diviertas desde el primer momento junto con tus amigos y familiares,
 - Películas con más premios Óscar
 - Mazo aleatorio 🔀 con preguntas de todos los mazos
 
-### Functionality
-In case the game falls short, you will find custom decks in the store with which to liven up your games to Time's Up! At the moment we have:
-- 👩 People who changed the world
-- 🦺 Top Sport Personalities
-- 🦒 Greatest singers
-You can play with these decks for free just after see an ad, by doing this you help us and we will bring you new decks and make you enjoy this game with your friends.
+### Funcionalidad
+¡Por si el juego se te quedara corto, encontrarás mazos personalizados en la tienda con los que amenizar tus partidas a Time’s Up! Por el momento tenemos:
+- 🦸🏼‍♂️ Mazo de Superhéroes de Marvel Cómics
+- 🍩 Mazo de Personajes de Los Simpsons
+- 🐺 Mazo de Juego de Tronos
+- 📺 Mazo de Series TV del Siglo XXI
+- 🎵 Mazo de Cantantes Famosos
+Puedes probar estos mazos de manera totalmente gratuita trás visualizar un anuncio, de esta manera nos apoyas para poder traer nuevos mazos y hacer que te lo pases genial con tus amigos.
 
-- ⭐ Play with friends or family
-- ⭐ Learn vocabulary and general culture
-- ⭐ For all ages
-- ⭐ Hundreds of words and descriptions
-- ⭐ Works on all devices
+- ⭐ Apto para todas las edades
+- ⭐ Cientos de palabras y descripciones
+- ⭐ Aprende vocabulario y cultura general
+- ⭐ Juego sencillo y divertido
+- ⭐ Juega con amigos o familiares
 
-In addition, also in the store you will have the option to expand the basic features of the game:
-- 👍 **Game duration**, where you can choose the number of cards for current game deck.
-- 👍 **Play a fourth round**, where you can only make a pose (statue mode) to try to get your partners to guess the name of the character.
-- 👍 **Enable the bibliography** during the game. So, if you do not know a character, at least you can read the basic description that we provide you.
-- 👍 **Expand game turns to 40/50/60 seconds**. That way you'll have more time to get the cards right.
+Además, también en la tienda tendrás la opción de ampliar las funcionalidades básicas del juego:
+- 👍 **Duración de la partida**, donde podrás seleccionar el número de tarjetas de las que constará el mazo de juego.
+- 👍 **Jugar una cuarta ronda**, donde solo podrás realizar una pose (modo estatua) para tratar de que tus compañeros acierten el nombre del personaje.
+- 👍 **Habilitar la bibliografía** durante la partida. Así, si no conoces algún personaje, al menos podrás leer la descripción básica que te proporcionamos nosotros.
+- 👍 **Ampliar los turnos** de juego a 40/50/60 segundos.
 
-***What would be your ideal game deck for your Time's Up games!?*** Don't hesitate and let us know writing in comments section what should be next deck for times up?
+***¿Cual sería tu mazo de juego ideal para tus partidas de Time's Up!?*** No lo dudes y deja en la caja de comentarios cual debería ser el siguiente mazo que tendríamos que incorporar a times up
+El juego trae un modo repaso con hasta 4 niveles de dificultad para que puedas jugar de manera individual y prepararte para el fin de semana o los días en los que te reúnas para tratar de adivinar personajes con tus amigos. En el último nivel de dificultad (modo extremo), tendrás que adivinar todos los personajes del mazo seleccionado. Supera a tus amigos con el nuevo modo multijugador online y registra tu mejor en la tabla de top players.
 
-As if that were not enough, the game brings a review mode, with up to 4 levels of difficulty, so you can play individually and prepare for the weekend or the days when you get together to try to guess characters with your best friends. Last difficulty level is the "Hardcore" level where you should guess all characters from selected deck.
-
-Notes:
-- The game receives regular updates. (expanding the decks and creating new ones)
-- If you have problems or suggestions of game decks, leave your comment next to your rating in the game tab in the Play Store.
-- Credits and thanks for the music of the game to bebeto, frankum, ShortRecord and bubaproducer. You can find her work on freesound.
+Notas:
+- El juego recibe actualizaciones regulares. (ampliando los mazos y creando nuevos)
+- Si tienes problemas o sugerencias de mazos de juego, deja tu comentario junto a tu valoración en la ficha del juego en la Play Store.
+- Créditos y agradecimientos por la música del juego a bebeto, frankum, ShortRecord y bubaproducer. Podéis encontrar su trabajo en freesound.
 
 ## Privacy policy
 
