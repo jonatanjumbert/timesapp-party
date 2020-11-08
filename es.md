@@ -50,12 +50,12 @@ Notas:
 - Si tienes problemas o sugerencias de mazos de juego, deja tu comentario junto a tu valoración en la ficha del juego en la Play Store.
 - Créditos y agradecimientos por la música del juego a bebeto, frankum, ShortRecord y bubaproducer. Podéis encontrar su trabajo en freesound.
 
-## Privacy policy
+## Política de privacidad
 
-You must accept the permissions of the application so that we can send you notifications with alerts about new available versions or relevant news about the game. We also need you to accept the permissions to show you relevant ads.
+Tienes que aceptar los permisos de la aplicación para que te podamos enviar notificaciones con alertas sobre las nuevas versiones o noticias relevantes del juego. Además necesitamos que aceptes lo permisos para mostrarte anuncios relevantes.
 
-For questions, problems or suggestions you can contact us via comment on the App Store or Google Play Store.
+Para preguntas, problemas o sugerencias podéis contactarnos via comentarios en la App Store o en la Google Play Store.
 
-Time's App! It is a third-party application made by fans and is not affiliated with Asmodee.
+Time's App! Es una aplicación de terceros hecha por fans y no está afiliada con Asmodee.
 
-Time's App! It is a free application but shows ads to pay developers, correct bugs, improve the application and release new versions with new features, pay the cost of the server and other intrinsic costs of the application. All donations are welcome.
+Time's App! Es una aplicación que muestra anuncios publicitarios para pagar a los desarrolladores, corregir bugs, mejorar la aplicación y sacar nuevas versiones con nuevas funcionalidades, pagar el coste de los servidores y otros costes relacionados con la aplicación. Todas las donaciones son bienvenidas.
