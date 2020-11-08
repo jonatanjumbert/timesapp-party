@@ -3,19 +3,26 @@ Time's App! trae a tu móvil el mítico juego de adivinar personajes basado en c
 
 Simplemente tienes que formar 2 equipos 🧑🏾‍🤝‍🧑🏼 y jugar las 3 rondas (básicas) de juego intentando conseguir el mayor número de aciertos que el equipo rival en los **turnos de 30 segundos** ⌛.
 
-When the time runs out, it will touch the rival team and so on until the rounds of the game are completed.
+Cuando el tiempo se agote le tocará al equipo rival y así sucesivamente hasta completar las rondas de juego.
 
-- *In the first round* the cluegiver can use the words to describe the character and the guessers can give as many answers as it deems appropriate to try to get the character right. If you decide to swipe the card, you will lose five seconds.
-- In *round number two* of the game of guessing characters, you will have the same time, but you can only use one word to try to get your teammates to guess the character.
-- The *third round of the game* has the same mechanics as the previous ones, but you can only do mimicry and sounds of onomatopoeias.
+- *En la primera ronda* podrás usar las palabras para describir al personaje y tu equipo podrá dar tantas respuestas como considere oportuno para tratar de acertar el personaje. Si decides pasar la tarjeta, perderás cinco segundos.
+- En la *ronda número dos* del juego de adivinar personajes, dispondrás del mismo tiempo, pero únicamente podrás emplear una palabra para tratar de que tus compañeros acierten el personaje.
+- La *tercera ronda* de juego tiene la misma mecánica que las anteriores, pero solo podrás hacer mímica y sonidos de onomatopeyas.
 
-To have fun from the first moment with your friends and family, you have several game decks with more than 1.200 characters to guess completely free:
-- Celebrities
-- Celebrities 2
-- Most famous women
-- Movies with most Oscars
-- Best videogames of all time
-- Random deck 🔀
+Para que te diviertas desde el primer momento junto con tus amigos y familiares, tienes varios mazos de juego con más de 2.500 personajes que acertar de manera completamente gratuita:
+- Famosos 1
+- Famosos 2
+- Famosos 3
+- Clash Royale
+- Pokémon Gen1
+- Pokémon Gen2
+- Deportistas Famosos
+- Actores Famosos
+- Personajes Ficticios
+- Dibujos animados
+- Personajes históricos
+- Películas con más premios Óscar
+- Mazo aleatorio 🔀 con preguntas de todos los mazos
 
 ### Functionality
 In case the game falls short, you will find custom decks in the store with which to liven up your games to Time's Up! At the moment we have:
